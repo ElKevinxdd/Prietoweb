@@ -1,0 +1,55 @@
+
+
+.header {
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.botoncitos {
+    color: white;
+    padding: 25px;
+}
+
+.prieto {
+    max-width: 175px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.título {
+    justify-content: right;
+    display: flex;
+    margin: 15px;
+    color: white;
+}
+
+.imagen {
+    display: flex;
+    background-color: bisque;
+}
+
+#Primerjuego {
+    margin: 70px;
+    width: 20%;
+}
+
+#texto1 {
+    padding: 5%;
+    display: flex;
+}
+
+#texto2 {
+    display: flex;
+    text-align: left;
+}
+
+.textoo {
+    display: flex;
+}
+
+.footer{
+    background-color: #303031;
+}
