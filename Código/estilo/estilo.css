@@ -1,0 +1,40 @@
+.color{
+    background-color: bisque;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.header {
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.seleccionar{
+    position: relative;
+}
+
+.botoncitos {
+    color: white;
+    left: 0;
+}
+
+.prieto {
+    max-width: 175px;
+    height: 100px;
+    right: 50%;
+}
+
+.título {
+    justify-content: right;
+    display: flex;
+    margin: 15px;
+    color: white;
+    right: 0;
+}
+
+.cuadradito{
+    background-color: bisque;
+}
