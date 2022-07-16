@@ -35,6 +35,10 @@
     right: 0;
 }
 
+.tarjetitas{
+    display: flex;
+}
+
 .cuadradito{
     background-color: bisque;
 }
